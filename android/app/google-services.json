@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "376827351742",
+    "project_id": "muffin-my-app",
+    "storage_bucket": "muffin-my-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376827351742:android:a9498f21d5beb9137a44ef",
+        "android_client_info": {
+          "package_name": "com.example.muffin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376827351742-3pontp6nrf6kc13u36s5gba60hf26uiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXUfMSkTbO3ni73TRzpY3EWz3K1EHJCxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376827351742-3pontp6nrf6kc13u36s5gba60hf26uiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376827351742-ic9eesflqh27vod3rl0dkic5cknu8ce3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.muffin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
